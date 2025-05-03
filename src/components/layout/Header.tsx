@@ -9,13 +9,12 @@ export function Header() {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link href="/" className="shrink-0">
           <Image
-            src="https://picsum.photos/seed/logo/200/50" // Placeholder logo
+            src="https://res.cloudinary.com/dcwwi6uwp/image/upload/v1746277751/logo-_1__taigon.png" // Updated logo URL
             alt="Pelham Auto Outfitters Logo"
             width={200}
             height={50}
             className="h-auto w-auto max-w-[150px] sm:max-w-[200px]"
             priority // Load logo quickly
-            data-ai-hint="company logo"
           />
         </Link>
         <div className="hidden md:flex items-center space-x-4">

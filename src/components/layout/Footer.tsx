@@ -7,12 +7,11 @@ export function Footer() {
       <div className="container mx-auto px-4 text-center">
         <Link href="/" className="inline-block mb-6">
            <Image
-            src="https://picsum.photos/seed/footerlogo/150/40" // Placeholder logo
+            src="https://res.cloudinary.com/dcwwi6uwp/image/upload/v1746277751/logo-_1__taigon.png" // Updated logo URL
             alt="Pelham Auto Outfitters Logo"
             width={150}
-            height={40}
+            height={40} // Adjusted height based on aspect ratio (original was 150x40)
             className="h-auto w-auto"
-            data-ai-hint="company logo simple"
            />
         </Link>
          <nav className="mb-4 flex justify-center space-x-4 text-sm">
