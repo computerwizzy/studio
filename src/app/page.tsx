@@ -291,7 +291,7 @@ export default function Home() {
        <div className="bg-primary text-primary-foreground py-4">
          <div className="container mx-auto px-4 text-center">
            <h3 className="text-lg md:text-xl font-semibold flex flex-col sm:flex-row justify-center items-center space-y-1 sm:space-y-0 sm:space-x-4">
-             <span className="flex items-center"><Phone className="inline-block mr-2 h-5 w-5" /> (205) 555-5555</span>
+             <span className="flex items-center"><Phone className="inline-block mr-2 h-5 w-5" /> (205) 620-3311</span>
              <span className="hidden sm:inline">•</span>
              <span className="flex items-center"><MapPin className="inline-block mr-2 h-5 w-5" /> 123 Main St, Pelham, AL</span>
            </h3>

@@ -18,7 +18,7 @@ export function Header() {
           />
         </Link>
         <div className="hidden md:flex items-center space-x-4">
-           <span className="font-bold text-sm lg:text-base whitespace-nowrap">Call Us Now! (205) 555-5555</span>
+           <span className="font-bold text-sm lg:text-base whitespace-nowrap">Call Us Now! (205) 620-3311</span>
            <Button asChild variant="default" size="sm" className="bg-primary hover:bg-primary/90 text-primary-foreground font-bold">
              <Link href="/quote">FREE ESTIMATE</Link>
            </Button>
