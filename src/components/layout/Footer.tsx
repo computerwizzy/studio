@@ -7,7 +7,7 @@ export function Footer() {
       <div className="container mx-auto px-4 text-center">
         <Link href="/" className="inline-block mb-6">
            <Image
-            src="https://res.cloudinary.com/dcwwi6uwp/image/upload/v1746277751/logo-_1__taigon.png" // Updated logo URL
+            src="https://res.cloudinary.com/dcwwi6uwp/image/upload/v1746277474/01411f82-logo-shadow_106u020000000000000028_gdqflo.png" // Updated logo URL
             alt="Pelham Auto Outfitters Logo"
             width={150}
             height={40} // Adjusted height based on aspect ratio (original was 150x40)

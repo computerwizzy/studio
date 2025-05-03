@@ -9,7 +9,7 @@ export function Header() {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link href="/" className="shrink-0">
           <Image
-            src="https://res.cloudinary.com/dcwwi6uwp/image/upload/v1746277751/logo-_1__taigon.png" // Updated logo URL
+            src="https://res.cloudinary.com/dcwwi6uwp/image/upload/v1746277474/01411f82-logo-shadow_106u020000000000000028_gdqflo.png" // Updated logo URL
             alt="Pelham Auto Outfitters Logo"
             width={200}
             height={50}
