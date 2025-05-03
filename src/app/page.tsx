@@ -10,13 +10,12 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative py-24 md:py-32 lg:py-40 bg-gradient-to-br from-gray-900 to-black text-white">
         <Image
-          src="https://picsum.photos/seed/heroTruck/1920/1080"
+          src="https://res.cloudinary.com/dcwwi6uwp/image/upload/v1746277488/hero-bg_ppvtow.jpg"
           alt="Truck with lift kit"
           layout="fill"
           objectFit="cover"
           className="absolute inset-0 opacity-30 z-0"
           priority
-          data-ai-hint="lifted truck dramatic"
         />
         <div className="absolute inset-0 bg-black/50 z-0"></div> {/* Overlay */}
         <div className="container mx-auto px-4 relative z-10 text-center md:text-left max-w-3xl">
